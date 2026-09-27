@@ -166,20 +166,8 @@ python3 -m unittest discover tools
 
 GitHub Actions runs the linter and its tests on every push.
 
-## Changes since submission
-
-- Moved files into `gns3/`, `docs/` and `tools/`.
-- Removed `project2_0to255.gns3` and the OSPF report PDF. They duplicated the
-  [campus-network-ospf](https://github.com/salehinafnan/campus-network-ospf)
-  repo, and the `.gns3` file here had no configs, so it opened blank.
-- The original drawing labels put all twelve serial interfaces in one shared
-  `169.110.226.160/28`. I changed them to the per-link `/30` plan above, which
-  the configs use.
-- Added the reference router configs and DHCP-based VPCS startup scripts.
-- Added the linter, its tests and CI.
-
 ## Team
 
-**Team 0to255:** Mahir Shadid (lead), Mushfiqus Salehin Afnan, Md. Abul
+**Team 0to255:** Mushfiqus Salehin Afnan, Mahir Shadid, Md. Abul
 Bashar, Mahafujul Alam and Pritom Saha. Supervised by Abdullahil Kafi, Dept.
 of CSE, IIUC.
