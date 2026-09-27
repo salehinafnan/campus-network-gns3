@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1104 -646 1877 1149" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13">
+<rect x="-1104" y="-646" width="1877" height="1149" fill="#ffffff"/>
+<line x1="-22" y1="-142" x2="-91" y2="-51" stroke="#57606a" stroke-width="1.5"/>
+<text x="-42" y="-117" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">nat0</text>
+<text x="-72" y="-77" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e0</text>
+<line x1="-91" y1="-51" x2="-454" y2="-190" stroke="#57606a" stroke-width="1.5"/>
+<text x="-193" y="-90" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e1</text>
+<text x="-352" y="-151" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">f0/0 dhcp</text>
+<line x1="-91" y1="-51" x2="-523" y2="14" stroke="#57606a" stroke-width="1.5"/>
+<text x="-212" y="-33" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e2</text>
+<text x="-402" y="-4" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">f0/0 dhcp</text>
+<line x1="-91" y1="-51" x2="-305" y2="222" stroke="#57606a" stroke-width="1.5"/>
+<text x="-151" y="25" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e3</text>
+<text x="-245" y="145" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">f0/0 dhcp</text>
+<line x1="-91" y1="-51" x2="-147" y2="-312" stroke="#57606a" stroke-width="1.5"/>
+<text x="-107" y="-124" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e4</text>
+<text x="-131" y="-239" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">f0/0 dhcp</text>
+<line x1="-91" y1="-51" x2="300" y2="-182" stroke="#57606a" stroke-width="1.5"/>
+<text x="18" y="-88" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e5</text>
+<text x="191" y="-146" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">f0/0 dhcp</text>
+<line x1="-91" y1="-51" x2="220" y2="192" stroke="#57606a" stroke-width="1.5"/>
+<text x="-4" y="17" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e6</text>
+<text x="133" y="124" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">f0/0 dhcp</text>
+<line x1="-147" y1="-312" x2="-454" y2="-190" stroke="#cf222e" stroke-width="2.5"/>
+<text x="-233" y="-278" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">s5/0 .162</text>
+<text x="-368" y="-225" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">s5/0 .161</text>
+<line x1="-454" y1="-190" x2="-523" y2="14" stroke="#cf222e" stroke-width="2.5"/>
+<text x="-473" y="-133" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">s5/1 .165</text>
+<text x="-504" y="-43" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">s5/0 .166</text>
+<line x1="-523" y1="14" x2="-305" y2="222" stroke="#cf222e" stroke-width="2.5"/>
+<text x="-462" y="72" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">s5/1 .169</text>
+<text x="-366" y="164" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">s5/0 .170</text>
+<line x1="-305" y1="222" x2="220" y2="192" stroke="#cf222e" stroke-width="2.5"/>
+<text x="-158" y="213" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">s5/1 .173</text>
+<text x="73" y="201" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">s5/0 .174</text>
+<line x1="220" y1="192" x2="300" y2="-182" stroke="#cf222e" stroke-width="2.5"/>
+<text x="242" y="87" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">s5/1 .177</text>
+<text x="278" y="-77" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">s5/0 .178</text>
+<line x1="300" y1="-182" x2="-147" y2="-312" stroke="#cf222e" stroke-width="2.5"/>
+<text x="175" y="-219" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">s5/1 .181</text>
+<text x="-22" y="-276" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">s5/1 .182</text>
+<line x1="-454" y1="-190" x2="-647" y2="-243" stroke="#57606a" stroke-width="1.5"/>
+<text x="-508" y="-205" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">f1/0 .1</text>
+<text x="-593" y="-228" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e0</text>
+<line x1="-523" y1="14" x2="-752" y2="15" stroke="#57606a" stroke-width="1.5"/>
+<text x="-587" y="15" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">f1/0 .1</text>
+<text x="-688" y="15" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e0</text>
+<line x1="-305" y1="222" x2="-543" y2="293" stroke="#57606a" stroke-width="1.5"/>
+<text x="-372" y="242" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">f1/0 .129</text>
+<text x="-476" y="273" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e0</text>
+<line x1="220" y1="192" x2="426" y2="259" stroke="#57606a" stroke-width="1.5"/>
+<text x="278" y="211" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">f1/0 .129</text>
+<text x="368" y="240" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e0</text>
+<line x1="300" y1="-182" x2="434" y2="-297" stroke="#57606a" stroke-width="1.5"/>
+<text x="338" y="-215" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">f1/0 .65</text>
+<text x="396" y="-265" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e0</text>
+<line x1="-147" y1="-312" x2="-146" y2="-435" stroke="#57606a" stroke-width="1.5"/>
+<text x="-147" y="-347" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">f1/0 .1</text>
+<text x="-146" y="-401" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e0</text>
+<line x1="-647" y1="-243" x2="-912" y2="-260" stroke="#57606a" stroke-width="1.5"/>
+<text x="-721" y="-248" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e1</text>
+<text x="-838" y="-255" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e0 dhcp</text>
+<line x1="616" y1="-392" x2="434" y2="-297" stroke="#57606a" stroke-width="1.5"/>
+<text x="565" y="-365" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e0 dhcp</text>
+<text x="485" y="-323" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e1</text>
+<line x1="-146" y1="-435" x2="-384" y2="-556" stroke="#57606a" stroke-width="1.5"/>
+<text x="-212" y="-469" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e1</text>
+<text x="-317" y="-522" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e0 dhcp</text>
+<line x1="-752" y1="15" x2="-1014" y2="22" stroke="#57606a" stroke-width="1.5"/>
+<text x="-825" y="17" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e1</text>
+<text x="-940" y="20" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e0 dhcp</text>
+<line x1="-543" y1="293" x2="-766" y2="388" stroke="#57606a" stroke-width="1.5"/>
+<text x="-605" y="320" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e1</text>
+<text x="-703" y="362" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e0 dhcp</text>
+<line x1="426" y1="259" x2="684" y2="316" stroke="#57606a" stroke-width="1.5"/>
+<text x="498" y="275" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e1</text>
+<text x="611" y="300" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e0 dhcp</text>
+<line x1="-91" y1="-51" x2="-16" y2="412" stroke="#57606a" stroke-width="1.5"/>
+<text x="-70" y="79" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e7</text>
+<text x="-37" y="283" text-anchor="middle" fill="#24292f" font-size="11" stroke="#fff" stroke-width="3" paint-order="stroke">e0</text>
+<rect x="-40" y="-156" width="36" height="28" rx="5" fill="#6e7781"/>
+<text x="-22" y="-106" text-anchor="middle" font-weight="bold" fill="#24292f">NAT</text>
+<rect x="-109" y="-65" width="36" height="28" rx="5" fill="#6e7781"/>
+<text x="-91" y="-15" text-anchor="middle" font-weight="bold" fill="#24292f">SW</text>
+<circle cx="-454" cy="-190" r="20" fill="#1f6feb"/>
+<text x="-454" y="-154" text-anchor="middle" font-weight="bold" fill="#24292f">CSE</text>
+<circle cx="-523" cy="14" r="20" fill="#1f6feb"/>
+<text x="-523" y="50" text-anchor="middle" font-weight="bold" fill="#24292f">EEE</text>
+<circle cx="-305" cy="222" r="20" fill="#1f6feb"/>
+<text x="-305" y="258" text-anchor="middle" font-weight="bold" fill="#24292f">BBA</text>
+<circle cx="-147" cy="-312" r="20" fill="#1f6feb"/>
+<text x="-147" y="-276" text-anchor="middle" font-weight="bold" fill="#24292f">ADMIN</text>
+<circle cx="300" cy="-182" r="20" fill="#1f6feb"/>
+<text x="300" y="-146" text-anchor="middle" font-weight="bold" fill="#24292f">ELL</text>
+<circle cx="220" cy="192" r="20" fill="#1f6feb"/>
+<text x="220" y="228" text-anchor="middle" font-weight="bold" fill="#24292f">CIVIL</text>
+<rect x="-665" y="-257" width="36" height="28" rx="5" fill="#6e7781"/>
+<text x="-647" y="-207" text-anchor="middle" font-weight="bold" fill="#24292f">Switch1</text>
+<rect x="-770" y="1" width="36" height="28" rx="5" fill="#6e7781"/>
+<text x="-752" y="51" text-anchor="middle" font-weight="bold" fill="#24292f">Switch2</text>
+<rect x="-561" y="279" width="36" height="28" rx="5" fill="#6e7781"/>
+<text x="-543" y="329" text-anchor="middle" font-weight="bold" fill="#24292f">Switch3</text>
+<rect x="-164" y="-449" width="36" height="28" rx="5" fill="#6e7781"/>
+<text x="-146" y="-399" text-anchor="middle" font-weight="bold" fill="#24292f">Switch4</text>
+<rect x="416" y="-311" width="36" height="28" rx="5" fill="#6e7781"/>
+<text x="434" y="-261" text-anchor="middle" font-weight="bold" fill="#24292f">Switch5</text>
+<rect x="408" y="245" width="36" height="28" rx="5" fill="#6e7781"/>
+<text x="426" y="295" text-anchor="middle" font-weight="bold" fill="#24292f">Switch6</text>
+<rect x="-930" y="-274" width="36" height="28" rx="5" fill="#8250df"/>
+<text x="-912" y="-224" text-anchor="middle" font-weight="bold" fill="#24292f">PC1_CSE</text>
+<rect x="598" y="-406" width="36" height="28" rx="5" fill="#8250df"/>
+<text x="616" y="-356" text-anchor="middle" font-weight="bold" fill="#24292f">PC1_ELL</text>
+<rect x="-402" y="-570" width="36" height="28" rx="5" fill="#8250df"/>
+<text x="-384" y="-520" text-anchor="middle" font-weight="bold" fill="#24292f">PC1_ADM</text>
+<rect x="-1032" y="8" width="36" height="28" rx="5" fill="#8250df"/>
+<text x="-1014" y="58" text-anchor="middle" font-weight="bold" fill="#24292f">PC1_EEE</text>
+<rect x="-784" y="374" width="36" height="28" rx="5" fill="#8250df"/>
+<text x="-766" y="424" text-anchor="middle" font-weight="bold" fill="#24292f">PC1_BBA</text>
+<rect x="666" y="302" width="36" height="28" rx="5" fill="#8250df"/>
+<text x="684" y="352" text-anchor="middle" font-weight="bold" fill="#24292f">PC1_CIVIL</text>
+<rect x="-34" y="398" width="36" height="28" rx="5" fill="#6e7781"/>
+<text x="-16" y="448" text-anchor="middle" font-weight="bold" fill="#24292f">DNS-1</text>
+<text x="607" y="-130" fill="#1a7f37" font-weight="bold">Area 0</text>
+<text x="607" y="-114" fill="#1a7f37" font-weight="bold">169.110.226.160/27</text>
+<text x="-794" y="-191" fill="#1a7f37" font-weight="bold">169.110.224.0/24</text>
+<text x="-843" y="62" fill="#1a7f37" font-weight="bold">169.110.225.0/25</text>
+<text x="-605" y="342" fill="#1a7f37" font-weight="bold">169.110.225.128/25</text>
+<text x="-358" y="-426" fill="#1a7f37" font-weight="bold">169.110.226.0/26</text>
+<text x="473" y="-260" fill="#1a7f37" font-weight="bold">169.110.226.64/26</text>
+<text x="365" y="186" fill="#1a7f37" font-weight="bold">169.110.226.128/27</text>
+<circle cx="-1076" cy="-622" r="7" fill="#1f6feb"/>
+<text x="-1060" y="-618" fill="#24292f">router</text>
+<rect x="-1084" y="-608" width="16" height="14" rx="3" fill="#8250df"/>
+<text x="-1060" y="-596" fill="#24292f">host (VPCS)</text>
+<rect x="-1084" y="-586" width="16" height="14" rx="3" fill="#6e7781"/>
+<text x="-1060" y="-574" fill="#24292f">switch / NAT / container</text>
+<line x1="-1084" y1="-556" x2="-1068" y2="-556" stroke="#cf222e" stroke-width="2.5"/>
+<text x="-1060" y="-552" fill="#24292f">serial link</text>
+</svg>
