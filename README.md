@@ -1,6 +1,6 @@
 # Campus Network with NAT & DHCP (GNS3)
 
-[![labcheck](https://github.com/salehinafnan/campus-network-gns3/actions/workflows/labcheck.yml/badge.svg)](https://github.com/salehinafnan/campus-network-gns3/actions/workflows/labcheck.yml)
+[![labcheck](https://github.com/salehinafnan/campus-network-nat/actions/workflows/labcheck.yml/badge.svg)](https://github.com/salehinafnan/campus-network-nat/actions/workflows/labcheck.yml)
 
 This is the final project (Project 3) for the Computer Networks Lab (CSE-3634)
 at IIUC, 2022. It extends the
